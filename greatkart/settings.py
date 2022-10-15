@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 #testando comandos git
 #testando comandos git denovo
 #testando comandos git denovo 3
+#123432d
 
 from pathlib import Path
 from decouple import config
